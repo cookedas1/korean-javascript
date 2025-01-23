@@ -1,0 +1,14 @@
+{
+    "name": "korean-javascript",
+    "description": "한국 자바스크립트",
+    "version": "1.0.0",
+    "scripts": {
+        "start:ks": "node console.js"
+    },
+    "keywords": [
+        "korean",
+        "nodejs",
+        "javascript",
+        "ks"
+    ]
+}
